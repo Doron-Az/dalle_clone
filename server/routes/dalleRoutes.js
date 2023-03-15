@@ -1,0 +1,1 @@
+const doron = 10;
