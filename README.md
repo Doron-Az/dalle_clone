@@ -15,5 +15,5 @@ Doron Azulay - doronazulay9@gmail.com
 *add Cloudinary api "CLOUDINARY_API_KEY"
 \*add Cloudinary api-secret "CLOUDINARY_API_SECRET"
 
--Go to client folder and run terminal : "npm run dev"
+-Go to client folder and run terminal : "npm build" "npm run dev" listen on : http://localhost:5173/
 -Go to server folder and run terminal : "npm start"
