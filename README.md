@@ -13,7 +13,7 @@ DALL-E MERN Clone is a web application that uses the MERN stack to implement a c
 DALL-E MERN Clone includes the following features:
 
 - Generate images based on textual descriptions using OpenAI's GPT-3 API.
-- Upload images and generate textual descriptions using OpenAI's DALL-E API.
+- Upload images and generate textual descriptions using OpenAI's DALL-E API
 - User authentication and registration using JWT.
 - User profile with saved images and descriptions.
 
