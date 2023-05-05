@@ -2,7 +2,7 @@
 
 ## Author:
 
-Doron Azulay (doronazulay9@gmail.com)
+Doron Azulay - doronazulay9@gmail.com 
 
 ## Introduction
 
@@ -13,7 +13,7 @@ DALL-E MERN Clone is a web application that uses the MERN stack to implement a c
 DALL-E MERN Clone includes the following features:
 
 - Generate images based on textual descriptions using OpenAI's GPT-3 API.
-- Upload images and generate textual descriptions using OpenAI's DALL-E API.
+- Upload images and generate textual descriptions using OpenAI's DALL-E API
 - User authentication and registration using JWT.
 - User profile with saved images and descriptions.
 
@@ -34,10 +34,10 @@ DALL-E MERN Clone uses the following technologies:
 
 - 1. Clone the repository : git clone https://github.com/Doron-Az/dalle-mern-clone.git
 - 2. Create .env file at server folder:
-  - add MongoDB key "MONGODB_URL"
-  - add OpenAI key "OPENAI_API_KEY"
-  - add Cloudinary name "CLOUDINARY_CLOUD_NAME"
-  - add Cloudinary api "CLOUDINARY_API_KEY"
-  - add Cloudinary api-secret "CLOUDINARY_API_SECRET"
+  - add MongoDB key "MONGODB_KEY" .
+  - add OpenAI key "OPENAI_API_KEY" .
+  - add Cloudinary name "CLOUDINARY_CLOUD_NAME".
+  - add Cloudinary api "CLOUDINARY_API_KEY".
+  - add Cloudinary api-secret "CLOUDINARY_API_SECRET".
 - 3. Go to client folder and run terminal : "npm run dev" , listen on : http://localhost:5173/
-- 4. Go to server folder and run terminal : "npm start"
+- 4. Go to server folder and run terminal : "npm start".
